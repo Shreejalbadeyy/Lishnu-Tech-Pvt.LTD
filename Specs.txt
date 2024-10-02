@@ -1,2 +1,17 @@
-Drinking Water Project
-First step
+A Mobile Application to Track Daily Water Intake of an individual
+
+Main Features Of The Application
+
+1) Personalized consumption goal.
+
+2) Water intake reminders.
+
+3) Water consumption tracking.(Record of the amount of water the user has consumed throughout their use of the application; progress/regress)
+
+4) Tips/Advice on startup loading screen.
+
+5) Reminder if the user has low consumption of water throughout the day.
+
+6) Progress tracking and reminding user with a chart at a period of time.(day/week/month can be set manually)
+
+
