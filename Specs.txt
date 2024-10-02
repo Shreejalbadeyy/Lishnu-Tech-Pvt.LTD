@@ -3,15 +3,44 @@ A Mobile Application to Track Daily Water Intake of an individual
 Main Features Of The Application
 
 1) Personalized consumption goal.
-
 2) Water intake reminders.
-
 3) Water consumption tracking.(Record of the amount of water the user has consumed throughout their use of the application; progress/regress)
-
 4) Tips/Advice on startup loading screen.
-
 5) Reminder if the user has low consumption of water throughout the day.
-
 6) Progress tracking and reminding user with a chart at a period of time.(day/week/month can be set manually)
+
+Work Breakdown Structure For the Project
+
+1) Project Initiation
+-Define project scope
+-Identify stakeholders
+-Set goals and objectives
+2) Requirement Gathering and Analysis 
+-User stories creation
+-Feature prioritization
+-Technical requirement specification
+3) Design 
+-UI/UX design
+-User flow mapping
+-App prototyping
+4) Development 
+-Frontend development 
+-Backend development
+-Database setup
+5) Testing 
+-Unit testing
+-Integration testing
+-User acceptance testing (UAT)
+6) Deployment 
+-App store submission (iOS, Android)
+-Server setup and configuration
+7) Post-Launch Maintenance
+-Bug fixes
+-Feature updates
+-Performance monitoring
+
+-
+
+
 
 
