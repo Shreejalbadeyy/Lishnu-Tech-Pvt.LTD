@@ -39,7 +39,18 @@ Work Breakdown Structure For the Project
 -Feature updates
 -Performance monitoring
 
--
+Timeline with Major Milestones and Deadlines
+Milestone	                       Timeline	                       Completion Date     
+1)Project Kickoff	                1 week	                          Week 1               -
+2)Requirement Gathering & Analysis	2 weeks	                          Week 3               -
+3)UI/UX Design Completion	        3 weeks	                          Week 6              
+4)Front-end Development Completion	4 weeks	                          Week 10            
+5)Back-end Development Completion	4 weeks	                          Week 14             
+6)Integration & Testing	                3 weeks	                          Week 17                      
+7)Beta Testing & UAT	                2 weeks	                          Week 19            
+8)App Store Submission	                1 week	                          Week 20             
+9)App Launch		                  -                               Week 21
+10)Post-Launch Monitoring	        Continuous	                  Ongoing
 
 
 
